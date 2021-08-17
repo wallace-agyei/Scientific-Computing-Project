@@ -1,0 +1,16 @@
+Hi. It took forever, but I finally wrote you a reply. Sorry for taking so long (again). I wrote it in a Jupyter notebook you'll find attached. It's a bit long, but 2/3 of it is on performance tweaks of the SPR function -- and contains a lot of copy-pasted code, hence the length --, which is illustrative, esp. if you never used a profiler, but not really important.
+
+Best
+Christoph
+
+
+On Fri, 18 Sep 2020 at 14:42, Siddhartha Sahu wrote:
+> Respected Sir This is a reminder email regarding the mail we sent you on
+> 8th September via viktord.dobrev@gmail.com We are grateful that we're
+> doing a project with you and we are still waiting for a response. Once
+> we are clear regarding our previous code and concepts, we can move
+> forward with the project. As you told us you'd look at our work, we
+> would like you to review the code written till now and advise us as to
+> where we might have been wrong and how we should proceed further. We
+> hope to hear from you soon. Thanking You Siddhartha, Viktor, Dilini and
+> Wallace
